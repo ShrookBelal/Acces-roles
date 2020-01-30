@@ -22,8 +22,8 @@ Please Make this steps before running Project:
 <p>Now you can run the project by this commend</p>
     <p> php artisan serve </p>
     
-    <h3>note that super admin is</h3>
-    <p>username: shrook@gmail.com </p>
-    <p> password :123456789 </p>
-    <p>Thank you  </p> 
+    note that super admin is
+    <p> username: shrook@gmail.com
+    password :123456789 
+   Thank you 
     
